@@ -23,12 +23,12 @@ Todo proyecto en este repositorio sigue estas etapas, documentadas de forma tran
 **Stack:** EXCEL (extracción y limpieza) → Power BI (modelado estrella, DAX, dashboards)
 
 **Resultados clave:**
-📈 El portafolio presenta una ocupación de 86.59%, un collection rate de 94.65% y un operating margin de 51.28%, mostrando una operación rentable pero con oportunidades de mejora en ocupación y cobranza.
-🔍 Cedar Grove Residences alcanza una ocupación de 91.67%, pero registra el menor operating margin del portafolio (35.24%), lo que indica que su principal oportunidad está en la relación entre ingresos y gastos, no necesariamente en la ocupación.
-🏢 Maple Court Apartments alcanza 100% de ocupación y presenta el mayor profit per unit, mientras que Hudson Lofts genera el mayor operating profit y uno de los mejores márgenes del portafolio.
-💰 Se identificaron aproximadamente $131K en Accounts Receivable, permitiendo detectar oportunidades para mejorar el seguimiento de cartera.
-📅 El dashboard permite anticipar renovaciones al identificar contratos próximos a vencer en ventanas de 30, 60 y 90 días, ayudando a reducir el riesgo de futuras vacantes.
-🔧 Se analizaron 430 work orders, incluyendo órdenes abiertas, prioridades, categorías y tiempos de resolución, facilitando el seguimiento del desempeño de mantenimiento.
+- 📈 El portafolio presenta una ocupación de 86.59%, un collection rate de 94.65% y un operating margin de 51.28%, mostrando una operación rentable pero con oportunidades de mejora en ocupación y cobranza.
+- 🔍 Cedar Grove Residences alcanza una ocupación de 91.67%, pero registra el menor operating margin del portafolio (35.24%), lo que indica que su principal oportunidad está en la relación entre ingresos y gastos, no necesariamente en la ocupación.
+- 🏢 Maple Court Apartments alcanza 100% de ocupación y presenta el mayor profit per unit, mientras que Hudson Lofts genera el mayor operating profit y uno de los mejores márgenes del portafolio.
+- 💰 Se identificaron aproximadamente $131K en Accounts Receivable, permitiendo detectar oportunidades para mejorar el seguimiento de cartera.
+- 📅 El dashboard permite anticipar renovaciones al identificar contratos próximos a vencer en ventanas de 30, 60 y 90 días, ayudando a reducir el riesgo de futuras vacantes.
+- 🔧 Se analizaron 430 work orders, incluyendo órdenes abiertas, prioridades, categorías y tiempos de resolución, facilitando el seguimiento del desempeño de mantenimiento.
 
 🔗 [Ver repositorio completo](link) | [Ver dashboard interactivo](link)
 ---
