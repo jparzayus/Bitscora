@@ -72,4 +72,4 @@ Estamos disponibles para proyectos freelance de:
 - 🐍 Automatización y análisis con Python
 - 📈 Análisis de KPIs y generación de insights de negocio
 
-📩 **Contacto:** bitscorainfo@gmail.com  | 💼 [Perfil de LinkedIn] | 🌐 [Otros perfiles freelance]
+📩 **Contacto:** bitscorainfo@gmail.com  | 💼 [[Perfil de LinkedIn](https://www.linkedin.com/company/bitscora/posts/)] | 🌐 [Otros perfiles freelance]
