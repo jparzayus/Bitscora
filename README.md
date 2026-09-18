@@ -37,13 +37,16 @@ Todo proyecto en este repositorio sigue estas etapas, documentadas de forma tran
 
 🔗 [Ver repositorio completo](link) | [Ver dashboard interactivo](link)
 ---
-### 🧹 [Proyecto 2: Pipeline ETL con Python + SQL]
-**Objetivo:** Automatizar la limpieza y consolidación de datos de [fuente], reduciendo el tiempo de preparación de reportes de X horas a Y minutos.
-**Stack:** Python (Pandas, SQLAlchemy) → PostgreSQL → Power BI
+### 🧹 [Proyecto 2: Construcción y Operaciones — Power BI]
+**Objetivo:** Transformar múltiples fuentes de datos de operaciones de construcción en un modelo analítico centralizado que permita monitorear presupuesto, costos, avance, cronograma, contratistas, compras, materiales e incidentes desde un único dashboard.
+**Stack:** Excel → Power Query → Power BI → DAX
 
 **Resultados clave:**
-- ⚙️ [Automatización lograda]
-- 📊 [Impacto en tiempos/calidad de datos]
+- ⚙️ Construcción de un modelo de datos con múltiples tablas de hechos, dimensiones y tablas auxiliares para centralizar la información de 8 proyectos.
+- 💰 Seguimiento de **$100.68M de presupuesto vigente** frente a **$72.11M de costos reales**, con una variación presupuestal de **$28.57M**.
+- 📈 Medición del avance real ponderado de **82.64%** frente a **84.16% planificado**, identificando una desviación de cronograma de **-1.52%**.
+- ⚠️ Identificación de **52 actividades retrasadas**, **223 órdenes de compra retrasadas** y **18 incidentes abiertos**.
+- 🔮 Desarrollo de indicadores de forecast, variaciones, utilización presupuestal, desempeño de contratistas, entrega de materiales y seguimiento de incidentes.
 
 🔗 [Ver repositorio completo](link)
 ---
